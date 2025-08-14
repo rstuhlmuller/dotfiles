@@ -30,6 +30,8 @@
         brews = [
           "mas"
           "gpg2"
+          "gnupg"
+          "pinentry-mac"
         ];
         casks = [
           "hyper"
