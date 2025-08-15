@@ -23,6 +23,9 @@
 	        pkgs.vscode
           pkgs.mkalias
           pkgs.obsidian
+          pkgs.podman
+          pkgs.terraform
+          pkgs.terragrunt
         ];
 
       homebrew = {
